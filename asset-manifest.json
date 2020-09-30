@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NavReactHook/static/css/main.725b62a4.chunk.css",
+    "main.js": "/NavReactHook/static/js/main.60c565d0.chunk.js",
+    "main.js.map": "/NavReactHook/static/js/main.60c565d0.chunk.js.map",
+    "runtime-main.js": "/NavReactHook/static/js/runtime-main.cd7f5c1d.js",
+    "runtime-main.js.map": "/NavReactHook/static/js/runtime-main.cd7f5c1d.js.map",
+    "static/js/2.21629bb1.chunk.js": "/NavReactHook/static/js/2.21629bb1.chunk.js",
+    "static/js/2.21629bb1.chunk.js.map": "/NavReactHook/static/js/2.21629bb1.chunk.js.map",
+    "index.html": "/NavReactHook/index.html",
+    "precache-manifest.2406cc4858bed067e0fc4f74f9f2453a.js": "/NavReactHook/precache-manifest.2406cc4858bed067e0fc4f74f9f2453a.js",
+    "service-worker.js": "/NavReactHook/service-worker.js",
+    "static/css/main.725b62a4.chunk.css.map": "/NavReactHook/static/css/main.725b62a4.chunk.css.map",
+    "static/js/2.21629bb1.chunk.js.LICENSE.txt": "/NavReactHook/static/js/2.21629bb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7f5c1d.js",
+    "static/js/2.21629bb1.chunk.js",
+    "static/css/main.725b62a4.chunk.css",
+    "static/js/main.60c565d0.chunk.js"
+  ]
+}
